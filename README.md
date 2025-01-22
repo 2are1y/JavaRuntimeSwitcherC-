@@ -6,6 +6,7 @@ Java Runtime Switcher 运行环境动态切换框架
 ## 项目简介
 
 JAR Launcher 是一个专门用于启动 Java JAR 文件的 Windows 平台工具。它提供了灵活的 Java 运行环境选择（JDK/JRE）和参数配置功能，使得 JAR 文件的启动更加便捷和可控。
+别管做这玩意有什么用，润了再说，反正我用的上。
 
 ## 主要特性
 
